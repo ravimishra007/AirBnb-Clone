@@ -7,7 +7,7 @@ Welcome to our GitHub repository for StayBnB, an innovative web application desi
 Frontend 
 
 ## Deplolyed App
-Frontend: https://air-bnb-clone-livid-gamma.vercel.app/
+Frontend: https://airbnb-clone007.netlify.app/
 
 Database: https://b33-group1-airbnb.onrender.com
 
